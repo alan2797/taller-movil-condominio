@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804289082482",
+    "firebase_url": "https://uber-f8d25.firebaseio.com",
+    "project_id": "uber-f8d25",
+    "storage_bucket": "uber-f8d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804289082482:android:66e16af21d8f3c4d6cfeeb",
+        "android_client_info": {
+          "package_name": "com.taller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804289082482-vc776arr7ohb3ntmmc3s4no9m7vuhngs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE61nNeveazInWAIJ_flQk5NsoAzTQ1xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804289082482-vc776arr7ohb3ntmmc3s4no9m7vuhngs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
